@@ -10,7 +10,7 @@ npm i
 npm run dev
 ```
 
-# Screenshot
+# Ảnh Màn Hình
 
 ![Screenshot 2025-04-16 161327](https://github.com/user-attachments/assets/5de5d2b8-8dbe-4352-ad3d-674472fac47d)
 ![Screenshot 2025-04-16 161500](https://github.com/user-attachments/assets/4adf7c45-3bd5-4670-910c-5c98257ece71)
